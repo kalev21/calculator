@@ -8,7 +8,7 @@ def mul_nums(a, b):
     return a * b
 
 def div_nums(a, b):
-    return a / b
+    return a // b
 
 def main():
     num1 = int(input('Введите число А: '))
